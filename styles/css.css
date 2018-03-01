@@ -1,0 +1,18 @@
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+table {
+    font-family: ariel;
+    font-size: 18pt;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+h1{
+	font-family: ariel;
+}
